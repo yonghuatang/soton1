@@ -13,12 +13,12 @@ All modules below are CORE and total 60 ECTS (120 CATS). No optional modules wil
    
 1. FEEG1001 **Design and Computing** `Credit: 30`
 
-2. FEEG1002 **Mechanics, Structures and Materials** Credit: 30
+2. FEEG1002 **Mechanics, Structures and Materials** `Credit: 30`
 
-3. FEEG1003 **Thermofluids** Credit: 15
+3. FEEG1003 **Thermofluids** `Credit: 15`
 
-4. FEEG1004 **Electrical and Electronics Systems** Credit: 15
+4. FEEG1004 **Electrical and Electronics Systems** `Credit: 15`
 
-5. MATH1054 **Mathematics for Engineering and the Environment** Credit: 15
+5. MATH1054 **Mathematics for Engineering and the Environment** `Credit: 15`
 
-6. SESA1015 **Introduction to Aeronautics and Astronautics** Credit: 15
+6. SESA1015 **Introduction to Aeronautics and Astronautics** `Credit: 15`
