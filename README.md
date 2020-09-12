@@ -1,8 +1,9 @@
 # soton1
-The repository is the LaTeX code for first-year modules and coursework for University of Southampton Malaysia. 
+The repository is the LaTeX code of first-year modules and coursework for [University of Southampton Malaysia](https://www.southampton.ac.uk/my).  
 © 2020 Tang Yong Hua. This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-## Year 1 Modules
+Year 1 Modules
+---
 
 The first year provides a background in engineering science, emphasising aerospace engineering aspects.
 
@@ -10,7 +11,7 @@ All modules below are CORE and total 60 ECTS (120 CATS). No optional modules wil
 
 \* ECTS - European Credit Transfer Scheme ** CATS - Credit Accumulation and Transfer Scheme
    
-1. FEEG1001 **Design and Computing** Credit: 30
+1. FEEG1001 **Design and Computing** `Credit: 30`
 
 2. FEEG1002 **Mechanics, Structures and Materials** Credit: 30
 
