@@ -1,5 +1,5 @@
 # soton1
-The repository is the LaTeX code of first-year modules and coursework for [University of Southampton Malaysia](https://www.southampton.ac.uk/my).  
+The repository is the LaTeX code of Year 1 modules and coursework for [University of Southampton Malaysia](https://www.southampton.ac.uk/my).  
 © 2020 Tang Yong Hua. This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 Year 1 Modules
@@ -22,3 +22,6 @@ All modules below are CORE and total 60 ECTS (120 CATS). No optional modules wil
 5. MATH1054 **Mathematics for Engineering and the Environment** `Credit: 15`
 
 6. SESA1015 **Introduction to Aeronautics and Astronautics** `Credit: 15`
+
+Contents
+---
