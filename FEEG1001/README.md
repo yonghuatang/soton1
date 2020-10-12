@@ -1,4 +1,4 @@
-FEEG1001 Python Lab
+FEEG1001 Computing - Python Lab
 ---
 
 ### 📃 Contents
