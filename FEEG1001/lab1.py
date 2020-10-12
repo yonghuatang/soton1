@@ -1,6 +1,7 @@
 # Lab 1
 # 12 October 2020
 # Created by YongHua
+# Python version 3.9
 
 import math
 
