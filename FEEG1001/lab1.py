@@ -1,7 +1,7 @@
 # Lab 1
 # 12 October 2020
 # Created by YongHua
-# Python version 3.9
+# Python version 3.8
 
 import math
 
