@@ -1,4 +1,4 @@
-FEEG1001 Computing - Python Lab
+💻 FEEG1001 Computing - Python Lab
 ---
 Further descriptions can be found on [Blackboard](https://blackboard.soton.ac.uk)  
 Python version 3.8
