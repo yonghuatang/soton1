@@ -1,5 +1,5 @@
 # soton1
-The repository is the LaTeX code of my Year 1 assignments and courseworks for [University of Southampton Malaysia](https://www.southampton.ac.uk/my).  
+The repository is for the codes and programs of my Year 1 assignments and courseworks for [University of Southampton Malaysia](https://www.southampton.ac.uk/my).  
 © 2020 Tang Yong Hua. This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 Email: yht1e20@soton.ac.uk
