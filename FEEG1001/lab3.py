@@ -46,6 +46,7 @@ def range_squared(n):
     the function should return the empty list."""
     if n > 0:
         return [i ** 2 for i in range(n)]
+        # alternatively: return list(map(lambda x: x ** 2, range(n)))
     elif n == 0:
         return []
     else:
