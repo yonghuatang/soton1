@@ -65,7 +65,7 @@ def count(element,seq):
     return ans
 
 
-print(count('dog',['dog', 'cat', 'mouse', 'dog']))
+print(count('dog', ['dog', 'cat', 'mouse', 'dog']))
 print(count(2, list(range(5))))
 
 
