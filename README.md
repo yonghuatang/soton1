@@ -29,6 +29,3 @@ All modules below are CORE and total 60 ECTS (120 CATS). No optional modules wil
 ---
 
 7. FEEG1020 **Technical Essay** `Formative and Summative`
-
-📃 Contents
----
