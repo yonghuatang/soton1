@@ -10,33 +10,34 @@ import urllib.request
 # Question 1
 
 def seq_sqrt(xs):
+    """A function seq_sqrt(xs) which takes a list of non-negative numbers xs with elements
+    [x0, x1, x2, ..., xn], and returns the list [sqrt(x0), sqrt(x1), sqrt(x2), ..., sqrt(xn)].
+    In other words, the function takes a list of numbers, and returns a list of the same length
+    that contains the square root for each number in the list."""
     return list(map(lambda x: math.sqrt(x), xs))
 
-my_list = [1, 2, 3, 4, 5]
-print(seq_sqrt(my_list))
 
 # Question 2
 
 def mean(xs):
+    """A function mean(xs) that takes a sequence xs of numbers, and returns the (arithmetic) mean
+    (i.e. the average value)."""
     count = 0
     for i in xs:
         count += i
     return count / len(xs)
 
 
-print(mean([0, 1, 2]))
-
 # Question 3
 
 def noaa_string():
+    """A function noaa_temperature(s) which should take a string s as returned from noaa_string()
+    as the input argument, extract the temperature in degree Celsius from the string, and return
+    this temperature as an integer number."""
     url = "http://tgftp.nws.noaa.gov/data/observations/metar/decoded/EGHI.TXT"
     noaa_data_string = urllib.request.urlopen(url).read()
     return noaa_data_string.decode("utf-8")
 
-
-print(noaa_string())
-
-# Question 4
 
 def noaa_temperature(s):
     s = noaa_string().split('\n')
@@ -44,20 +45,23 @@ def noaa_temperature(s):
 
 print(noaa_temperature(noaa_string()))
 
-# Question 5
+# Question 4
 
 def wc(filename):
+    """A function wc(filename) that returns the number of words in file filename.
+    The name wc stands for Word Count."""
     f = open(filename, 'rt')
     content = f.read()
     f.close()
     return len(content.split())
 
 
-print(wc(r"C:\Users\tangy\AppData\Local\Programs\Python\Python38\lab4_data.txt"))
-
-# Question 6
+# Question 5
 
 def line_averages(filename):
+    """A function line_averages(filename) that takes a string filename
+    which contains the name of a file to be processed. The function should
+    compute the average value for every line, and return the average values in a list."""
     f = open(filename, 'rt')
     data = f.read()
     f.close()
@@ -67,9 +71,13 @@ def line_averages(filename):
         result.append(mean(i))
     return result
 
-# Question 7
+
+# Question 6
 
 def count_sub_in_file(filename,s):
+    """Write a function count_sub_in_file(filename,s) that takes two arguments:
+    the substring s (of type string) and a filename (of type string). The function
+    should return the number of occurrences of s in the file given through filename."""
     f = open(filename, 'rt')
     data = f.read()
     f.close()
