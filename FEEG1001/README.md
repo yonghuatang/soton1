@@ -13,4 +13,4 @@ Python version 3.8
 7. lab7.py `23 Nov 2020`
 8. lab8.py `30 Nov 2020`
 9. lab9.py `07 Dec 2020`
-10. lab10.py `14 Dec 2020`
+10. lab_10.py `14 Dec 2020`
