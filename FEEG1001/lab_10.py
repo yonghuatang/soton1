@@ -67,7 +67,7 @@ def solve_freefall(ts, v0, m=80):
     vs = odeint(lambda v, t: g - (A * c * v**2 / m), v0, ts)
     return vs
 
-# Just a exemplary implementation and plotting of the function
+# Just an exemplary implementation and plotting of the function
 ts = np.arange(0, 101, 1)  # (inclusive, exclusive, step)
 plt.plot(ts, solve_freefall(ts, v0=0), 'x', label=r'$\frac{dv}{dt}=g-\frac{Ac}{m}v^2$')  # LaTeX environment
 plt.xlabel('t')
