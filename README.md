@@ -1,6 +1,6 @@
 # soton1
 The repository is for the codes and programs of my Year 1 assignments and courseworks for [University of Southampton Malaysia](https://www.southampton.ac.uk/my).  
-© 2020 Tang Yong Hua. This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+© 2021 Tang Yong Hua.
 
 Email: yht1e20@soton.ac.uk
 
@@ -28,4 +28,8 @@ All modules below are CORE and total 60 ECTS (120 CATS). No optional modules wil
 📝 Extra Modules
 ---
 
-7. FEEG1020 **Technical Essay** `Formative and Summative`
+7. FEEG1010 **Laboratory Report** `Formative and Summative`
+
+8. FEEG1020 **Technical Essay** `Formative and Summative`
+
+9. FEEG1030 **Assessment in Design** `Formative and Summative`
