@@ -11,7 +11,7 @@ mpl.rc('font', family='Arial')
 # data
 temp = [-60., 20., 90.]
 impact_energy_al = [9.932, 8.126, 9.932]
-impact_energy_steel = [11.747, 11.772, 5.714]
+impact_energy_steel = [5.714, 11.772, 11.747]
 
 
 # generate splines
