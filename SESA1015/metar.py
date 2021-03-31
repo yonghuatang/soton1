@@ -46,5 +46,7 @@ class metar:
         return result
 
 
-my_metar1 = metar("WMSA")  # Kuala Lumpur International Airport
-my_metar2 = metar("EGLL")  # London Heathrow Airport
+if __name__ == '__main__':
+    # test run examples
+    my_metar1 = metar("WMSA")  # Kuala Lumpur International Airport
+    my_metar2 = metar("EGLL")  # London Heathrow Airport
