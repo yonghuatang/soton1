@@ -1,5 +1,5 @@
 # soton1
-This repository is for the codes and programs of Year 1 modules at University of Southampton Malaysia.  
+The repository for Year 1 modules and coursework at UoSM.  
 © 2021 Tang Yong Hua.
 
 Email: yht1e20@soton.ac.uk
